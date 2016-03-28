@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<connections:connections xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:connections="http://www.ibm.com/websphere/wdo/connections">
+  <connection id="WILDLIFE">
+    <development xsi:type="connections:rsc-live-connection" id="WILDLIFE_dev" name="WILDLIFE"/>
+    <runtime xsi:type="connections:datasource-connection" auto-deploy="true" class-location="C:\Program Files (x86)\IBM\SDPShared\plugins\com.ibm.datatools.db2_2.0.0.v200808071952\driver\db2jcc.jar;C:\Program Files (x86)\IBM\SDPShared\plugins\com.ibm.datatools.db2_2.0.0.v200808071952\driver\db2jcc_license_cisuz.jar" id="WILDLIFE_runtime" classname="com.ibm.db2.jcc.DB2ConnectionPoolDataSource" database-name="WILDLIFE" jndi-name="jdbc/WILDLIFE" port-number="50000" resource-reference-name="WILDLIFE" server-name="localhost" sql-vendor-type="49" userid="amit"/>
+  </connection>
+</connections:connections>

@@ -1,0 +1,10 @@
+@charset "utf-8";
+#main_contnt {
+	width: 800px;
+	left: 276px;
+	top: 105px;
+	right: 100px;
+	bottom: 200px;
+	height: 651px;
+	position: absolute;
+}

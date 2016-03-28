@@ -1,0 +1,31 @@
+.asd {
+	font-family: "Courier New", Courier, monospace;
+	font-size: medium;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #00CCFF;
+	background-attachment: fixed;
+	background-color: #000000;
+	background-image: url(images/box_img.jpg);
+	background-repeat: repeat-x;
+	background-position: left center;
+	letter-spacing: normal;
+	text-align: left;
+	word-spacing: normal;
+	white-space: normal;
+	float: left;
+	height: 200px;
+	width: 200px;
+	border-top-width: medium;
+	border-right-width: medium;
+	border-bottom-width: medium;
+	border-left-width: medium;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	list-style-type: circle;
+	position: static;
+	cursor: crosshair;
+}

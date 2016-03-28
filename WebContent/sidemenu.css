@@ -1,0 +1,9 @@
+#sidemenu {
+	height: auto;
+	width: auto;
+	left: 50px;
+	top: 105px;
+	right: 850px;
+	bottom: 200px;
+	position: absolute;
+}
